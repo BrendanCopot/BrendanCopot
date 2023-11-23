@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, my name is Brendan and I'm a Game Programmer
+
+I recently finished studying at The Academy of Interactive Entertainment. 
+Here I learned the fundamentals of C# and C++, and the ins and outs of Unity and Unreal Engine.
+
+- 🔭 I’m currently working on fixing up my portfolio
+- 🌱 I’m currently learning Unreal Engine
+- 💬 Ask me about my Major Project: Sky Surge
+- 📫 How to reach me: https://www.linkedin.com/in/bcopot/
 
 <!--
 **BrendanCopot/BrendanCopot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
