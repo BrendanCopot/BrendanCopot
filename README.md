@@ -7,6 +7,7 @@ Here I learned the fundamentals of C# and C++, and the ins and outs of Unity and
 - 🌱 I’m currently learning Unreal Engine
 - 💬 Ask me about my Major Project: Sky Surge
 - 📫 How to reach me: https://www.linkedin.com/in/bcopot/
+- Portfolio: https://brendancopot.github.io/
 
 <!--
 **BrendanCopot/BrendanCopot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
