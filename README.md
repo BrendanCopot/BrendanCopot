@@ -10,7 +10,7 @@ Skills: C++ / C#/ Unreal Engine / Unity / Git / HTML / CSS
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/bcopot/)
 - ⚡ Fun fact: I have an Ork army for Warhammer 40k tabletop 
 
-
+## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrendanCopot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bcopot//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCopot)](https://github.com/anuraghazra/github-readme-stats)
