@@ -1,25 +1,19 @@
-### Hello, my name is Brendan and I'm a Game Programmer
+### Hi there 👋, my name is Brendan and I'm a Game Programmer
+I recently finished studying at The Academy of Interactive Entertainment. Here I learned the fundamentals of C# and C++ and the ins and outs of Unity and Unreal Engine.
 
-I recently finished studying at The Academy of Interactive Entertainment. 
-Here I learned the fundamentals of C# and C++, and the ins and outs of Unity and Unreal Engine.
+Skills: C++ / C#/ Unreal Engine / Unity / Git / HTML / CSS
 
-- 🔭 Visit my portfolio at https://brendancopot.github.io/
-- 🌱 I’m currently learning about Unreal Engine, Unity, C++, and C#
-- 💬 Ask me about my latest game: Sky Surge
-- 💼 I'm currently working on
-- ✉️ Contact me at bcopot@gmail.com
+- 🔭 I’m currently working on [Procedural Dungeon Generator using Binary Space Partitioning](https://github.com/BrendanCopot/BinarySpacePartition-Dungeon-Generator-UE5) 
+- 🌱 I’m currently learning Unreal Engine 5 
+- 👯 I’m open to collaborating with people on other projects 
+- 💬 Ask me about My latest game: [Sky Surge](https://biobluegames.itch.io/sky-surge) 
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/bcopot/)
+- ⚡ Fun fact: I have an Ork army for Warhammer 40k tabletop 
 
-<!--
-**BrendanCopot/BrendanCopot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrendanCopot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bcopot//)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanCopot)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanCopot&show_icons=true&count_private=true)  
+
