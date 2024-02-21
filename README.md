@@ -9,7 +9,7 @@ I recently finished studying at The Academy of Interactive Entertainment. Here I
 - ⚡ Fun fact: I have an Ork army for Warhammer 40k tabletop 
 
 ## Skills
- C++ / C#/ Unreal Engine / Unity / Git / HTML / CSS
+ C++ / C# / Unreal Engine / Unity / Git / HTML / CSS
 
 ## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrendanCopot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bcopot//)  
