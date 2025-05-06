@@ -1,12 +1,11 @@
-### Hi there 👋, my name is Brendan and I'm a Game Programmer
-I recently finished studying at The Academy of Interactive Entertainment. Here I learned the fundamentals of C# and C++ and the ins and outs of Unity and Unreal Engine.
+### Hi there 👋, my name is Brendan, and I'm a Software Developer
+I recently finished studying at The Academy of Interactive Entertainment. Here, I learned the fundamentals of C# and C++ and the ins and outs of Unity and Unreal Engine.
 
-- 🔭 I’m currently working on [Procedural Dungeon Generator using Binary Space Partitioning](https://github.com/BrendanCopot/BinarySpacePartition-Dungeon-Generator-UE5) 
-- 🌱 I’m currently learning Unreal Engine 5 
+- 🌱 I’m currently expanding my skills in Unreal Engine 5 
 - 👯 I’m open to collaborating with people on other projects 
-- 💬 Ask me about My latest game: [Sky Surge](https://biobluegames.itch.io/sky-surge) 
+- 💬 Ask me about my latest game: [Sky Surge](https://biobluegames.itch.io/sky-surge) 
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/bcopot/)
-- ⚡ Fun fact: I have an Ork army for Warhammer 40k tabletop 
+- ⚡ Fun fact: I've been working on getting better at Jiu Jitsu 
 
 ## Skills
  C++ / C# / Unreal Engine / Unity / Git / HTML / CSS
